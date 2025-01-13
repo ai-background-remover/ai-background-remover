@@ -1,6 +1,8 @@
 # AI Background Remover - 100% Free, No Sign-up Required
 
-AI Background Remover is a completely free online background removal tool, with no registration required, no watermarks, and no usage limits.
+AI Background Remover is a completely free online background removal tool, with no registration required, no watermarks.
+
+Visit [aibackgroundremover.org](https://aibackgroundremover.org) to start using it for free!
 
 ## 🌟 Key Features
 
