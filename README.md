@@ -2,7 +2,7 @@
 
 AI Background Remover is a completely free online background removal tool, with no registration required, no watermarks.
 
-Visit [aibackgroundremover.org](https://aibackgroundremover.org) to start using it for free!
+Visit [AI Background Remover](https://aibackgroundremover.org) to start using it for free!
 
 ## 🌟 Key Features
 
@@ -125,7 +125,7 @@ Visit [aibackgroundremover.org](https://aibackgroundremover.org) to start using 
 
 ## 🌐 Get Started
 
-Visit [aibackgroundremover.org](https://aibackgroundremover.org) to start using it for free!
+Visit [AI Background Remover](https://aibackgroundremover.org) to start using it for free!
 
 No registration needed - experience professional AI background removal instantly.
 
